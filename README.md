@@ -22,7 +22,7 @@
     <li>Refer to the zxing documentation for more advanced usage and customization options.</li>
   </ul>
   <h2>Additional Information:</h2>
-  <p>For more information, please visit the <a href="https://github.com/TheStevenDev/qr-code-generator">GitHub repository</a>.</p>
+  <p>For more information, please visit the <a href="https://github.com/TheStevenDev/QR-GENERATOR">GitHub repository</a>.</p>
   <p>If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on GitHub.</p>
   <h2>License</h2>
   <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
